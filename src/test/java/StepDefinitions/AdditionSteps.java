@@ -37,6 +37,4 @@ public class AdditionSteps {
     public void theCalculatorReturns(int arg0) {
         Assert.assertEquals(this.result, arg0);
     }
-
-
 }
